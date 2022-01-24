@@ -1,0 +1,24 @@
+{
+  "name": "fdoc-js-5-Upendra12395",
+  "version": "1.0.0",
+  "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+  "main": "day5_1a.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc-js-5-Upendra12395.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc-js-5-Upendra12395/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc-js-5-Upendra12395#readme"
+}
